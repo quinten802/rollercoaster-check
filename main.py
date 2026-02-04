@@ -15,7 +15,7 @@ running = True
 while running:
 
     #Get inputs
-    os.system('cls')
+    os.system('cls')uwu senpai
     print("Rollercoaster-check™")
     age = input("Voer leeftijd in: ")
     height = input("Voer lengte in: ")
